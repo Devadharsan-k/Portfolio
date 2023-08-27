@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Devadharsan-k/portfolio/static/css/main.84a6f8b7.css",
+    "main.js": "/Devadharsan-k/portfolio/static/js/main.24f5d0aa.js",
+    "static/media/Bootstrap.png": "/Devadharsan-k/portfolio/static/media/Bootstrap.430491e6a02f91bf55d6.png",
+    "static/media/disney.jpg": "/Devadharsan-k/portfolio/static/media/disney.06622fe59456a9963bf6.jpg",
+    "static/media/heroImage.jpeg": "/Devadharsan-k/portfolio/static/media/heroImage.0474f9d6798c504956ab.jpeg",
+    "static/media/Alan.jpg": "/Devadharsan-k/portfolio/static/media/Alan.14294f710f2e1eeb1b06.jpg",
+    "static/media/react.png": "/Devadharsan-k/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/Movie.jpg": "/Devadharsan-k/portfolio/static/media/Movie.b98ee6ca157074036165.jpg",
+    "static/media/google keep.jpg": "/Devadharsan-k/portfolio/static/media/google keep.c0205f78336f7b9ba363.jpg",
+    "static/media/github.png": "/Devadharsan-k/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/Nike Ecommerce.avif": "/Devadharsan-k/portfolio/static/media/Nike Ecommerce.1fd972ed9554dcbe90d8.avif",
+    "static/media/html.png": "/Devadharsan-k/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Devadharsan-k/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Devadharsan-k/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/Firebase.png": "/Devadharsan-k/portfolio/static/media/Firebase.6921c0824d53c4987c2c.png",
+    "static/media/javascript.png": "/Devadharsan-k/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Devadharsan-k/portfolio/index.html",
+    "main.84a6f8b7.css.map": "/Devadharsan-k/portfolio/static/css/main.84a6f8b7.css.map",
+    "main.24f5d0aa.js.map": "/Devadharsan-k/portfolio/static/js/main.24f5d0aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84a6f8b7.css",
+    "static/js/main.24f5d0aa.js"
+  ]
+}
